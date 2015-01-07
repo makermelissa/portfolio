@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+	<project>
+		<id>twp</id>
+		<name>TripwirePro</name>
+		<url>http://tripwirepro.com</url>
+		<image>twp.jpg</image>
+		<active>true</active>
+		<description><![CDATA[TripwirePro is a site that is used for automating Craigslist searches so that you are notified as soon as something is posted that matches your search. Searches can be renewed, edited, or deactivated through email links. After clicking a link, your ID is saved as a cookie and a new tab pops up, allowing you to edit your searches without needing to look at your email.]]></description>
+		<details>
+			<contribution>Graphic Design</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>All Frontend Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Automated Craigslist Listing Fetching</contribution>
+			<contribution>RPC Based Backend</contribution>
+			<contribution>Unique UX controls</contribution>
+		</details>
+	</project>
+	<project>
+		<id>thv</id>
+		<name>TruckHive</name>
+		<url>http://truckhive.com</url>
+		<image>thv.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Truckhive is a site that matches shipping companies with freight haulers. It has a unique negotiation system to allow both parties to come to a fair agreement. It allows you to search and post listings, check user ratings and generate more business.]]></description>
+		<details>
+			<contribution>Graphic Work</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>All Frontend Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Unique Negotiation System</contribution>
+			<contribution>Feedback and Rating System</contribution>
+			<contribution>Custom API for integration with PostEverywhere</contribution>
+			<contribution>Payment Processing</contribution>
+			<contribution>SSL</contribution>
+		</details>
+	</project>
+	<project>
+		<id>lus</id>
+		<name>Lucky Staffing</name>
+		<url>http://luckystaffing.com</url>
+		<image>lus.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Lucky Staffing is a staffing agency in the Portland, OR area. The website allows job seekers to upload their resume and provide data to assist in job placement. The database is then searchable by Lucky Staffing to help them find the right candidate for any particular position.]]></description>
+		<details>
+			<contribution>Website Layout</contribution>
+			<contribution>All Frontend Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Automated Craigslist Listing Fetching</contribution>
+			<contribution>Unique UX controls</contribution>
+			<contribution>Administrative Pages Programming</contribution>
+			<contribution>Newsletter Generator</contribution>
+			<contribution>OAuth Integration with Twitter</contribution>
+		</details>
+	</project>
+	<project>
+		<id>gmf</id>
+		<name>Gem Faire</name>
+		<url>http://www.gemfaire.com</url>
+		<image>gmf.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Gem Faire is a company that organizes trade show expos for gem dealers. The website allows dealers to register for upcoming events as well as providing participants a way to check out when a tradeshow is happening nearby.]]></description>
+		<details>
+			<contribution>Graphic Work</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>All Frontend Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Custom Animated Sprite</contribution>
+		</details>
+	</project>
+	<project>
+		<id>flc</id>
+		<name>Free Link Central</name>
+		<url>http://flc.melissagirl.com</url>
+		<image>flc.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Free Link Central was designed as a resource tool for SEO professionals, webmasters and website owners to exchange links with similar businesses in order to improve search engine rankings.<br /><br />This website worked with it's sister site dwalink.com as a resource of links to choose from for promoting your website.]]></description>
+		<details>
+			<contribution>Website Layout</contribution>
+			<contribution>Frontside User Interface Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Control Panel Programming</contribution>
+		</details>
+	</project>
+	<project>
+		<id>pbl</id>
+		<name>Pacific Boatland</name>
+		<url>http://pbl.melissagirl.com</url>
+		<image>pbl.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Pacific Boatland was a boat sales and service company based out of Vancouver. The original website had been placed together on a proprietary website hosting company that did not allow websites to be optimized to be search engine friendly.<br /><br />I needed to take the HTML and strip out the unnecessary code for every page and convert it to php. The clients were very pleased with the end result.]]></description>
+		<details>
+			<contribution>Graphic Design</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>Frontside User Interface Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Control Panel Programming</contribution>
+			<contribution>Content</contribution>
+			<contribution>Search Engine Optimization</contribution>
+			<contribution>Custom Event Calendar</contribution>
+			<contribution>Custom Searchable Inventory System</contribution>
+		</details>
+	</project>
+	<project>
+		<id>spe</id>
+		<name>Surplus Paper Equipment</name>
+		<url>http://www.surpluspaperequipment.com</url>
+		<image>spe.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Surplus Paper Equipment is a company that buys equipment from paper mills at good prices and resells to other companies or individuals over the internet.]]></description>
+		<details>
+			<contribution>Website Layout</contribution>
+			<contribution>Frontside User Interface Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Custom Inventory System Design using Web 2.0 Technology</contribution>
+			<contribution>Search Engine Optimization</contribution>
+		</details>
+	</project>
+	<project>
+		<id>law</id>
+		<name>LawCapital</name>
+		<url></url>
+		<image>law.jpg</image>
+		<active>true</active>
+		<description><![CDATA[LawCapital provides lawsuit funding and cash advances for those expecting a cash settlement resulting from a pending lawsuit, verdict or judgment. The need for legal and settlement funding services arise from the fact that the legal process is often slow and many plaintiffs simply cannot afford to wait for a fair settlement due to financial pressures.<br /><br />I created a Process Tracking System to allow each case to efficiently flow between departments. This also allowed clients to log in and view the status of the approval process as well as receive email updates. Additionally the system was able to generate PDF documents with database info that could easily be printed for faxing information.]]></description>
+		<details>
+			<contribution>Backend Process Tracking System</contribution>
+			<contribution>Custom PDF Generation</contribution>
+		</details>
+	</project>
+	<project>
+		<id>www</id>
+		<name>melissagirl.com</name>
+		<url>http://www.melissagirl.com</url>
+		<image>www.jpg</image>
+		<active>false</active>
+		<description><![CDATA[melissagirl.com is a personal website where I can write about some of my hobbies. It has also been a place to try out some new coding ideas I&#39;ve had.]]></description>
+		<details>
+			<contribution>Graphic Design</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>Frontside User Interface Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Content</contribution>
+			<contribution>Custom Journal with highlighting search function</contribution>
+			<contribution>Flash-based Portfolio</contribution>
+			<contribution>Backend transparent user tracking</contribution>
+		</details>
+	</project>
+	<project>
+		<id>sab</id>
+		<name>Scream at the Beach</name>
+		<url></url>
+		<image>sab.jpg</image>
+		<active>true</active>
+		<description><![CDATA[For over 12 years Scream at the Beach has been Portland&#39;s largest, scariest and most popular Halloween event.<br /><br />I worked on the backend volunteer database. It has 3 levels of security and allows different options for each one including user management, newsletter posting, and account editing. I also modified the existing signup form to put data directly into the database.]]></description>
+		<details>
+			<contribution>Graphic Design to match the existing look and feel</contribution>
+			<contribution>Login System</contribution>
+			<contribution>Volunteer Database</contribution>
+			<contribution>Automated Birthday Emails</contribution>
+			<contribution>Newsletter Posting System</contribution>
+		</details>
+	</project>
+	<project>
+		<id>plc</id>
+		<name>Portland Lesbian Choir</name>
+		<url>http://www.plchoir.org</url>
+		<image>plc.jpg</image>
+		<active>true</active>
+		<description><![CDATA[The Portland Lesbian Choir is a non-audition community chorus welcoming all women who love to sing and laugh in harmony with other women, regardless of musical skill or experience.]]></description>
+		<details>
+			<contribution>Website Layout</contribution>
+			<contribution>Joomla Integration</contribution>
+			<contribution>Content Management</contribution>
+		</details>
+	</project>
+	<project>
+		<id>ibm</id>
+		<name>Iceboxman Technologies</name>
+		<url>http://iceboxman.com</url>
+		<image>ibm.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Iceboxman Technologies is a software website catering mainly to the mobile device market. The popular Pocket Chips Challenge for the Pocket PC was developed and distributed via the website.]]></description>
+		<details>
+			<contribution>Graphic Design</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Content</contribution>
+			<contribution>Search Engine Optimization</contribution>
+		</details>
+	</project>
+</portfolio>
