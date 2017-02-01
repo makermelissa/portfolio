@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <portfolio>
 	<project>
+		<id>bfn</id>
+		<name>BeFunky</name>
+		<url>https://www.befunky.com</url>
+		<image>bfn.jpg</image>
+		<active>true</active>
+		<description><![CDATA[BeFunky is a website featuring a powerful online photo editor, collage maker, and graphic designer with a focus on ease of use.]]></description>
+		<details>
+			<contribution>Website Coding using PHP and JavaScript</contribution>
+			<contribution>Ajax Frontend Programming</contribution>
+			<contribution>Search Engine Optimization</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Responsive Website Design</contribution>
+			<contribution>Mobile Friendly</contribution>
+			<contribution>Automated File Compression Script</contribution>
+			<contribution>Secure Database Backend</contribution>
+			<contribution>Unique Language Switching Control</contribution>
+		</details>
+	</project>
+	<project>
+		<id>cgt</id>
+		<name>Code Giants</name>
+		<url>http://www.codegiants.net/</url>
+		<image>cgt.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Code Giants is a staffing agency in the Portland, OR area. This is mostly an informational website about the company.]]></description>
+		<details>
+			<contribution>Website Layout</contribution>
+			<contribution>All Frontend Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Updated All Content</contribution>
+		</details>
+	</project>
+	<project>
+		<id>wbf</id>
+		<name>Wolf and Bear Forge</name>
+		<url>http://wolfandbearforge.com/</url>
+		<image>wbf.jpg</image>
+		<active>true</active>
+		<description><![CDATA[Wolf and Bear Forge is a Blacksmith business in the Portland, OR area. They create blades as well as custom artisan projects. This is mostly an informational website about the company.]]></description>
+		<details>
+			<contribution>Graphic Design</contribution>
+			<contribution>Website Layout</contribution>
+			<contribution>All Frontend Coding</contribution>
+			<contribution>Mobile Friendly Website</contribution>
+			<contribution>Updated All Content</contribution>
+		</details>
+	</project>
+	<project>
 		<id>twp</id>
 		<name>TripwirePro</name>
 		<url>http://tripwirepro.com</url>
@@ -20,7 +68,7 @@
 	<project>
 		<id>thv</id>
 		<name>TruckHive</name>
-		<url>http://truckhive.com</url>
+		<url></url>
 		<image>thv.jpg</image>
 		<active>true</active>
 		<description><![CDATA[Truckhive is a site that matches shipping companies with freight haulers. It has a unique negotiation system to allow both parties to come to a fair agreement. It allows you to search and post listings, check user ratings and generate more business.]]></description>
@@ -39,7 +87,7 @@
 	<project>
 		<id>lus</id>
 		<name>Lucky Staffing</name>
-		<url>http://luckystaffing.com</url>
+		<url></url>
 		<image>lus.jpg</image>
 		<active>true</active>
 		<description><![CDATA[Lucky Staffing is a staffing agency in the Portland, OR area. The website allows job seekers to upload their resume and provide data to assist in job placement. The database is then searchable by Lucky Staffing to help them find the right candidate for any particular position.]]></description>
@@ -103,6 +151,24 @@
 		</details>
 	</project>
 	<project>
+		<id>bnw</id>
+		<name>Beachcombers NW</name>
+		<url>http://bnw.melissagirl.com</url>
+		<image>thumb_unavailable.jpg</image>
+		<active>false</active>
+		<description><![CDATA[<p>Description to be added soon.</p>]]></description>
+		<details></details>
+	</project>
+	<project>
+		<id>ayb</id>
+		<name>Analyze Your Business</name>
+		<url>http://ayb.melissagirl.com</url>
+		<image>thumb_unavailable.jpg</image>
+		<active>false</active>
+		<description><![CDATA[<p>Description to be added soon.</p>]]></description>
+		<details></details>
+	</project>
+	<project>
 		<id>spe</id>
 		<name>Surplus Paper Equipment</name>
 		<url>http://www.surpluspaperequipment.com</url>
@@ -148,6 +214,37 @@
 		</details>
 	</project>
 	<project>
+		<id>prc</id>
+		<name>Prop Cop</name>
+		<url></url>
+		<image>prc.jpg</image>
+		<active>false</active>
+		<description><![CDATA[Prop Cop allows the insurance industry and corporations to list their stolen property from around the globe. Prop Cop will connect law enforcement and the insurance industry, allowing officers to return the recovered property to the rightful owners. The Prop Cop system will assist officers in solving crimes by connecting the stolen property to the originating police report.]]></description>
+		<details>
+			<contribution>Frontside User Interface Programming</contribution>
+			<contribution>All Backend Programming</contribution>
+			<contribution>Design and Development of the Property Loss Database System</contribution>
+		</details>
+	</project>
+	<project>
+		<id>ids</id>
+		<name>Idea Spectrum</name>
+		<url></url>
+		<image>ids.jpg</image>
+		<active>false</active>
+		<description><![CDATA[Description to be added soon.]]></description>
+		<details></details>
+	</project>
+	<project>
+		<id>vr8</id>
+		<name>Vacation Rentals 800</name>
+		<url>http://vr8.melissagirl.com</url>
+		<image>thumb_unavailable.jpg</image>
+		<active>false</active>
+		<description><![CDATA[Description to be added soon.]]></description>
+		<details></details>
+	</project>
+	<project>
 		<id>sab</id>
 		<name>Scream at the Beach</name>
 		<url></url>
@@ -180,7 +277,7 @@
 		<name>Iceboxman Technologies</name>
 		<url>http://iceboxman.com</url>
 		<image>ibm.jpg</image>
-		<active>true</active>
+		<active>false</active>
 		<description><![CDATA[Iceboxman Technologies is a software website catering mainly to the mobile device market. The popular Pocket Chips Challenge for the Pocket PC was developed and distributed via the website.]]></description>
 		<details>
 			<contribution>Graphic Design</contribution>
